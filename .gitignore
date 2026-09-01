@@ -1,0 +1,8 @@
+# Scan output
+results/
+
+# Local/editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
