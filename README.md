@@ -1,5 +1,5 @@
 # Subdomreco
-(https://github.com/5r4z4/subdomreco/actions/workflows/ci.yml)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Subdomreco is a Bash-based automation pipeline for passive subdomain reconnaissance. It runs multiple enumeration engines concurrently, normalizes and deduplicates their results, checks reachable web services, and stores reproducible per-target artifacts.
