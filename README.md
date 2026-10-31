@@ -109,7 +109,7 @@ shellcheck SubRecon.sh my_script.sh scripts/install.sh tests/test_cli.sh
 bash tests/test_cli.sh
 ```
 
-## CV-ready project description
+## project description
 
 **SubRecon — Reconnaissance Automation Pipeline**  
 Built a Bash automation pipeline that orchestrates five passive subdomain-enumeration tools in parallel, validates and normalizes target data, deduplicates results, probes reachable services, and produces structured run artifacts. Added fault isolation, CLI configuration, automated dependency setup, mock-based integration tests, ShellCheck, and GitHub Actions CI.
